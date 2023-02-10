@@ -7,21 +7,21 @@ This documentation will guide you how to deploy your website and apply a custom 
 ### Setting Up Netlify.
 
 1. Log in into your netlify account or sign up if you don't have an account.
-   ![netlify-login](/assets/netlify-login.png)
+   ![netlify-login](/assets/netlify-login.PNG)
 
 2. Choose your repositories and deploy with Netlify.
-   ![netlify-repo](/assets/choose-repo-netlify.png)
+   ![netlify-repo](/assets/choose-repo-netlify.PNG)
 
 ### Setting Up Domain
 
 1. We need to buy a domain through domain registrar
-   ![Niagahoster](/assets/niagahoster.png)
+   ![Niagahoster](/assets/niagahoster.PNG)
 
 2. After that, we need to connect the domain to cloudflare. Go to cloudflare, log in and add new site.
-   ![Cloudflare](/assets/cloudflare-1.png)
+   ![Cloudflare](/assets/cloudflare-1.PNG)
 
 3. Change the nameservers on Domain Registrar to the one provided by Cloudflare.
-   ![Cloudflare](/assets/cloudflare-2.png)
+   ![Cloudflare](/assets/cloudflare-2.PNG)
    ![Niagahoster](/assets/niagahoster-1.PNG)
 
 ### Add Custom Domain to Netlify.
